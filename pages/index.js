@@ -12,6 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Russ Next app!" />
+        <h1>H1 So this is my Next app</h1>
+        <h2>H2 So this is my Next app</h2>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
